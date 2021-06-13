@@ -81,7 +81,7 @@ from sklearn.preprocessing import StandardScaler, MinMaxScaler
 - EDA과정에서 결과를 도출할 때 분석가의 주관적 판단이 개입될 수 있기에 해당 분야의 도메인지식에 대한 필요성, 그리고 이를 통해 신뢰할 수 있는 결과를 내기위한 깊은 분석이 필요하다는 것을 느꼈습니다.
 - 각 회차마다 댓글 수와 댓글 내용을 수집하여 다른 인사이트를 도출해보면 좋을 것 같습니다.
 
-# 💡 Built with !
+# 💡 Built with
 
 - 이승주
     - Crawling, 데이터 전처리, EDA, git 코드정리
