@@ -71,3 +71,5 @@ for day in range(1, 8):
 # 크롤링한 데이터프레임 pickle로 저장
 with open('datas/every_weekly_webtoon.pkl', 'wb') as f:
     pickle.dump(webtoon_df, f)
+
+print("End Crawling Serializing Webtoon")
