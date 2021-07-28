@@ -60,4 +60,4 @@ for year in range(2005, 2021):
 with open('datas/every_yearly_webtoon.pkl', 'wb') as f:
     pickle.dump(yearly_webtoon_df, f)
 
-print('end')
+print('End Crawling Yearly Webtoon')
