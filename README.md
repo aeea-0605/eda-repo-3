@@ -226,7 +226,7 @@ img_person : 분량과 참여도간 상관계수
 
 <br/>
 
-# Code Comment
+# Code Explanation
 > 자세한 EDA과정 : [webtoon_EDA.ipynb](https://github.com/aeea-0605/eda-repo-3/blob/main/webtoon_EDA.ipynb)
 
 > 요일별 연재 웹툰 크롤링 code : [serializing_webtoon_crawl.py](https://github.com/aeea-0605/eda-repo-3/blob/main/serializing_webtoon_crawl.py)
